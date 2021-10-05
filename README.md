@@ -14,7 +14,7 @@
   <br>
   <a href="https://github.com/uimini/uimini">Uimini github</a>
   ·
-  <a href="https://uimini.github.io/example-landing/dist/">Demo of current example is here</a>
+  <a href="https://uimini.github.io/example-landing/dist/">Demo of current example</a>
 </p>
 
 ## Demo
